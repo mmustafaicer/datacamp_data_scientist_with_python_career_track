@@ -1,0 +1,86 @@
+Country,Medal,Name,Time,Year,color
+JAM,GOLD,Usain Bolt,9.63,2012,goldenrod
+JAM,SILVER,Yohan Blake,9.75,2012,silver
+USA,BRONZE,Justin Gatlin,9.79,2012,saddlebrown
+JAM,GOLD,Usain Bolt,9.69,2008,goldenrod
+TRI,SILVER,Richard Thompson,9.89,2008,silver
+USA,BRONZE,Walter Dix,9.91,2008,saddlebrown
+USA,GOLD,Justin Gatlin,9.85,2004,goldenrod
+POR,SILVER,Francis Obikwelu,9.86,2004,silver
+USA,BRONZE,Maurice Greene,9.87,2004,saddlebrown
+USA,GOLD,Maurice Greene,9.87,2000,goldenrod
+TRI,SILVER,Ato Boldon,9.99,2000,silver
+BAR,BRONZE,Obadele Thompson,10.04,2000,saddlebrown
+CAN,GOLD,Donovan Bailey,9.84,1996,goldenrod
+NAM,SILVER,Frankie Fredericks,9.89,1996,silver
+TRI,BRONZE,Ato Boldon,9.9,1996,saddlebrown
+GBR,GOLD,Linford Christie,9.96,1992,goldenrod
+NAM,SILVER,Frankie Fredericks,10.02,1992,silver
+USA,BRONZE,Dennis Mitchell,10.04,1992,saddlebrown
+USA,GOLD,Carl Lewis,9.92,1988,goldenrod
+GBR,SILVER,Linford Christie,9.97,1988,silver
+USA,BRONZE,Calvin Smith,9.99,1988,saddlebrown
+USA,GOLD,Carl Lewis,9.99,1984,goldenrod
+USA,SILVER,Sam Graddy,10.19,1984,silver
+CAN,BRONZE,Ben Johnson,10.22,1984,saddlebrown
+GBR,GOLD,Allan Wells,10.25,1980,goldenrod
+CUB,SILVER,Silvio Leonard Tartabull,10.25,1980,silver
+BUL,BRONZE,Petar Petrov,10.39,1980,saddlebrown
+TRI,GOLD,Hasely Crawford,10.06,1976,goldenrod
+JAM,SILVER,Donald Quarrie,10.08,1976,silver
+URS,BRONZE,Valery Borzov,10.14,1976,saddlebrown
+URS,GOLD,Valery Borzov,10.14,1972,goldenrod
+USA,SILVER,Robert Taylor,10.24,1972,silver
+JAM,BRONZE,Lennox Miller,10.33,1972,saddlebrown
+USA,GOLD,Jim Hines,9.95,1968,goldenrod
+JAM,SILVER,Lennox Miller,10.04,1968,silver
+USA,BRONZE,Charles Greene,10.07,1968,saddlebrown
+USA,GOLD,Bob Hayes,10,1964,goldenrod
+CUB,SILVER,Enrique Figuerola Camue,10.2,1964,silver
+CAN,BRONZE,Harry Jerome,10.2,1964,saddlebrown
+EUA,GOLD,Armin Hary,10.2,1960,goldenrod
+USA,SILVER,David Sime,10.2,1960,silver
+GBR,BRONZE,Peter Radford,10.3,1960,saddlebrown
+USA,GOLD,Bobby Joe Morrow,10.5,1956,goldenrod
+USA,SILVER,W. Thane Baker,10.5,1956,silver
+AUS,BRONZE,Hector Hogan,10.6,1956,saddlebrown
+USA,GOLD,Lindy Remigino,10.4,1952,goldenrod
+JAM,SILVER,Herbert McKenley,10.4,1952,silver
+GBR,BRONZE,E. McDonald Bailey,10.4,1952,saddlebrown
+USA,GOLD,W. Harrison Dillard,10.3,1948,goldenrod
+USA,SILVER,"H. Norwood ""Barney"" Ewell",10.4,1948,silver
+PAN,BRONZE,Lloyd LaBeach,10.4,1948,saddlebrown
+USA,GOLD,Jesse Owens,10.3,1936,goldenrod
+USA,SILVER,Ralph Metcalfe,10.4,1936,silver
+NED,BRONZE,Martinus Osendarp,10.5,1936,saddlebrown
+USA,GOLD,"T. ""Eddie"" Tolan",10.3,1932,goldenrod
+USA,SILVER,Ralph Metcalfe,10.3,1932,silver
+GER,BRONZE,Arthur Jonath,10.4,1932,saddlebrown
+CAN,GOLD,Percy Williams,10.8,1928,goldenrod
+GBR,SILVER,"John ""Jack"" London",10.9,1928,silver
+GER,BRONZE,Georg Lammers,10.9,1928,saddlebrown
+GBR,GOLD,Harold Abrahams,10.6,1924,goldenrod
+USA,SILVER,Jackson Scholz,10.8,1924,silver
+NZL,BRONZE,Arthur Porritt,10.9,1924,saddlebrown
+USA,GOLD,Charles Paddock,10.8,1920,goldenrod
+USA,SILVER,Morris Kirksey,10.9,1920,silver
+GBR,BRONZE,Harry Edward,10.9,1920,saddlebrown
+USA,GOLD,Ralph Craig,10.8,1912,goldenrod
+USA,SILVER,Alvah Meyer,10.9,1912,silver
+USA,BRONZE,Donald Lippincott,10.9,1912,saddlebrown
+RSA,GOLD,Reginald Walker,10.8,1908,goldenrod
+USA,SILVER,James Rector,11,1908,silver
+CAN,BRONZE,Robert Kerr,11,1908,saddlebrown
+USA,GOLD,"Charles ""Archie"" Hahn",11.2,1906,goldenrod
+USA,SILVER,Fay Moulton,11.3,1906,silver
+AUS,BRONZE,Nigel Barker,11.3,1906,saddlebrown
+USA,GOLD,"Charles ""Archie"" Hahn",11,1904,goldenrod
+USA,SILVER,Nathaniel Cartmell,11.2,1904,silver
+USA,BRONZE,Bill Hogenson,11.2,1904,saddlebrown
+USA,GOLD,Frank Jarvis,11,1900,goldenrod
+USA,SILVER,J. Walter Tewksbury,11.1,1900,silver
+AUS,BRONZE,Stanley Rowley,11.2,1900,saddlebrown
+USA,GOLD,Thomas Burke,12,1896,goldenrod
+GER,SILVER,Fritz Hofmann,12.2,1896,silver
+HUN,BRONZE,Alojz Sokol,12.6,1896,saddlebrown
+USA,BRONZE,Francis Lane,12.6,1896,saddlebrown
